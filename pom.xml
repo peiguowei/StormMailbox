@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>peizi</groupId>
-    <artifactId>StromMailbox</artifactId>
+    <artifactId>StormMailbox</artifactId>
     <version>1.0-SNAPSHOT</version>
     <!--指定web项目-->
     <packaging>war</packaging>
