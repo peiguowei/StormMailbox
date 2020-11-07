@@ -107,51 +107,51 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--导入beans  映射组件-->
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-beans -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-beans</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--spring content 上下文 承上启下-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--spring支持ui模板 脚本服务 缓存 邮件服务-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--导入spring web网站相关-->
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-web -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--spring MVC相关-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--spring 事物相关-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-tx</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--spring jdbc 自身创建了连接池 但是实现不好 相当于一个接口 别的数据库想要进来必须通过它-->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
-            <version>4.3.18.RELEASE</version>
+            <version>4.3.20.RELEASE</version>
         </dependency>
         <!--spring aop所要用到的包 面向切面编程 -->
         <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
