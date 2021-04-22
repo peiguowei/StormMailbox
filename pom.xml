@@ -100,7 +100,7 @@
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
-            <version>3.3.1</version>
+            <version>3.5.6</version>
         </dependency>
         <!--导入spring core 核心组件-->
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
